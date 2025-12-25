@@ -1,4 +1,6 @@
 opencv-python
-numpy
 easyocr
-streamlit
+torch
+torchvision
+numpy
+Pillow
