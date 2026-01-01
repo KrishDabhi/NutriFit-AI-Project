@@ -1,7 +1,7 @@
 # NutriFit AI 🥦📸  
 *Your personal AI nutrition coach—right from your food label.*
 
-NutriFit AI is a **4-week modular MVP** that uses **computer vision**, **structured rule-based logic**, and a **local LLM** to help users—especially those with dietary restrictions like diabetes—understand food labels, receive personalized health feedback, and discover healthier alternatives from the **Open Food Facts** open database.
+NutriFit AI is a that uses **computer vision**, **structured rule-based logic**, and a **local LLM** to help users—especially those with dietary restrictions like diabetes—understand food labels, receive personalized health feedback, and discover healthier alternatives from the **Open Food Facts** open database.
 
 Built entirely with **open-source, privacy-respecting tools**, this project demonstrates a full-stack AI pipeline aligned with **Azure AI engineering principles**: modular design, local inference, responsible data use, and user-centric empathy.
 
