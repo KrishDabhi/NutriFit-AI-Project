@@ -31,8 +31,8 @@ All processing happens **on-device**. No cloud APIs. No data leaks. Just smart, 
 - Validate consistency (e.g., total carbs ≥ sugar).
 
 ### **Third Step: Local LLM Advisor + Open Food Facts Integration**
-- Use **Ollama** to run **Mistral 7B** locally—no internet or API keys required.
-- Prompt engineering for empathetic, non-judgmental feedback (e.g., *“This snack has 12g of added sugar—more than two servings for someone managing diabetes. Would you like a lower-sugar option?”*).
+- Use **Ollama** to run **Mistral 7B** locally no internet or API keys required.
+- Prompt engineering for empathetic, non-judgmental feedback (e.g., *“This snack has 12g of added sugar more than two servings for someone managing diabetes. Would you like a lower-sugar option?”*).
 - Query **Open Food Facts API** to fetch real, verified healthier alternatives by category or nutrient similarity.
 - Fallback to cached/local logic if API is unreachable.
 
@@ -67,7 +67,7 @@ All processing happens **on-device**. No cloud APIs. No data leaks. Just smart, 
 ## 📦 Installation
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.12+
 - [Ollama](https://ollama.com/) installed and running
 - Git
 
